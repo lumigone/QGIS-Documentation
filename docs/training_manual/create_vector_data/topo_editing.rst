@@ -153,6 +153,8 @@ If you experiment with the tool, you may notice that the snapping
 options can prevent you from creating a ring inside a polygon.
 So you are advised to turn off snapping before cutting a hole.
 
+If you can't find the Add Ring tool, add the "Advanced Digitalizing Toolbar" panel
+
 #. Disable snapping for the ``landuse`` layer using the |snapping|
    :sup:`Enable Snapping` button (or use the shortcut :kbd:`s`).
 #. Use the |addRing| :sup:`Add Ring` tool to create a hole in the
